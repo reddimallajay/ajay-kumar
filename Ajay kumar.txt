@@ -1,0 +1,6 @@
+This is Important 
+Git Commands 
+Git init
+git add .
+git status
+git commit
